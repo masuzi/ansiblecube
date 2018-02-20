@@ -10404,7 +10404,7 @@
         "status": "present"
       },
       {
-        "name": "",
+        "name": "kit-de-l-animateur-fr",
         "status": "present"
       },
       {
@@ -10464,27 +10464,23 @@
         "status": "present"
       },
       {
-        "name": "",
+        "name": "informati-su-quale-sono-i-tuoi-diritti-in-italia-it",
         "status": "present"
       },
       {
-        "name": "",
+        "name": "diventa-un-scrittore-it",
         "status": "present"
       },
       {
-        "name": "",
+        "name": "come-trovare-un-lavoro-in-italia-it",
         "status": "present"
       },
       {
-        "name": "",
+        "name": "combatti-le-discriminazioni-it",
         "status": "present"
       },
       {
-        "name": "",
-        "status": "present"
-      },
-      {
-        "name": "",
+        "name": "pratica-un-po-di-sport-it",
         "status": "present"
       },
       {
@@ -10516,7 +10512,7 @@
         "status": "present"
       },
       {
-        "name": "",
+        "name": "informati-su-alcune-malattie-it",
         "status": "present"
       }
      ],
